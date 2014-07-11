@@ -1,0 +1,47 @@
+/* ------- Leslie Minor -------*/
+/* ------- COOP 1204 -------*/
+
+/* ------- Document ------- */
+body
+{
+	background-color:#ffffff;
+	color: #cccccc;
+	font: 62.5%/1.5 "Times New Roman", Helvetica, Arial, sans-serif;
+}
+/* ------- Wrapper ------- */
+#wrapper
+{
+	width:300px;
+	margin: 0 auto;
+}
+
+/* ------- Headings ------- */
+h1
+{
+	font-size: 2em;
+}
+
+/* ------- Containers ------- */
+#top_left
+{
+	text-align: left;
+	color: #000000;
+	padding-right: 1em;
+	margin-top: 10px;
+}
+#top_right
+{
+	text-align: right;
+	color: #000000;
+	padding-right: 1em;
+	margin-top: 10px;
+}
+#vid
+{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#footer
+{
+	
+}
